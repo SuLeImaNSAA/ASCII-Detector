@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #eee;
+  font-family: "Arial";
+  font-size: 240px;
+  margin: auto;
+  text-align: center;
+}
+.main {
+  font-size: 30px;
+}
